@@ -5,100 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a209c968-ea7c-4f5f-ba88-e898626a6c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/entregasdeux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/entregasdousuario.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/ostiposdeuxnomercadodetrabalho.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/relacaouxui.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/experienciadousuarioUX/ux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/designerxdesign.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/diferencauxui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignereasentregasdeUI" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/HashSetJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/IteradorEComparador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/LinkedListJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/Mais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/ProjetoComList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/TreeSetJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/collections/resumocollections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/AulaPratica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/EstruturaCondicionalAlinhada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/EstruturaCondicionalComposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/EstruturaCondicionalSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/EstruturaDeMultiplaEscolha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturacondicional/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/EstruturaDeRepeticaoAlinhada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/EstruturaRepeticaoDowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/EstruturaRepeticaoFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/EstruturaRepeticaoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/estruturaderepeticao/resumointeligente.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/ClassAbstratas/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/ClassAbstratas/Corrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/ClassAbstratas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/ClassAbstratas/Poupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/composicao/Composicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/composicao/Itens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/composicao/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/excptions/Excptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/excptions/tratamentodeexcecoes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/exemplodeheranca/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/exemplodeheranca/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/exemplodeheranca/Gata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/exemplodeheranca/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/heranca/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/heranca/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/heranca/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/heranca/pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/interfaces/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/interfaces/Poupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/herança/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/entradasaida/EntradaSaida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/estruturasequencial/operadoreslogicos/EstruturaSequencial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/estruturasequencial/operadoreslogicos/OPERADORESLOGICOS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/operadoresaritméticos/OPERADORESARITMETICOS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/operadoresaritméticos/OperadoresAritmeticosJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/tiposdedados/TipoDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Construtores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Encapsulamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Metodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/ModificadoresAcessos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoaprogramacaorientadoaobjeto/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/Linguagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/MetodosToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/SobreCargaDeMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/resumeaula.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/resumo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/polimorfismo/resumosobreescritametodos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/ArayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/ExemploDeArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/Exercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/Matrizes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/UtilizandoMatrizes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/UtilizandoVetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/vetoresematrizes/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/identidadevisual.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/identidadevisual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/aspartesdeumainterfacedigital.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/aspartesdeumainterfacedigital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/designsystem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/dispositivoseresponsividade.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/dispositivoseresponsividade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignsystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/resumo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/classstring/CLASSSTRING.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/classstring/CLASSSTRING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/classstring/ClassString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/classstring/ClassString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/classstring/METODOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/classstring/METODOS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/entradasaida/EntradaSaida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/entradasaida/SAIDAEENTRADAS.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/entradasaida/SAIDAEENTRADAS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/tiposdedados/TIPOSDEVARIAVEIS.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/logicadeprogramacaocomjava/introducaoalinguagemjava/tiposdedados/TIPOSDEVARIAVEIS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/tiposdedados/TipoDeDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marcos1228/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marcos1228/classstring/ClassString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marcos1228/entradasaida/EntradaSaida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/marcos1228/tiposdedados/TipoDeDados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignereasentregasdeUI" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignereasentregasdeUI.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
