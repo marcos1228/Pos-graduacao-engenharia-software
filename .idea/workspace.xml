@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a209c968-ea7c-4f5f-ba88-e898626a6c74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/identidadevisual.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/identidadevisual.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/aspartesdeumainterfacedigital.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/aspartesdeumainterfacedigital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/designsystem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/dispositivoseresponsividade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/dispositivoseresponsividade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignsystem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/acessibilidade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/acessibilidade1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/acessibilidade2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/acessibilidade3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/eficaz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/heurísticas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/resumoheurística.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/conhecimentosimportantes/usabilidade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasedeideacao/Mooodboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasedeideacao/benchmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasedeideacao/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasesdeempatiaededefinicao/entrevistacomusuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasesdeempatiaededefinicao/personasejornadas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasesdeempatiaededefinicao/pesquisaqualitativaequantitativas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/fasesdeempatiaededefinicao/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/DesignSpring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/desingSprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/odesignthinking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/porqueaplicarothinking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/resumototal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/metodologiadesign/tiposdemetodologiadedesign.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignereasentregasdeUI" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcos1228/interfacedesoftware/interfacedousuarioUI/odesignereasentregasdeUI.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,57 +53,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArayList.executor": "Run",
-    "Application.AulaPratica.executor": "Run",
-    "Application.ClassString.executor": "Run",
-    "Application.Composicao.executor": "Run",
-    "Application.EntradaSaida.executor": "Run",
-    "Application.EstruturaCondicionalComposta.executor": "Run",
-    "Application.EstruturaCondicionalSimples.executor": "Run",
-    "Application.EstruturaDeMultiplaEscolha.executor": "Run",
-    "Application.EstruturaDeRepeticaoAlinhada.executor": "Run",
-    "Application.EstruturaRepeticaoDowhile.executor": "Run",
-    "Application.EstruturaRepeticaoFor.executor": "Run",
-    "Application.EstruturaRepeticaoWhile.executor": "Run",
-    "Application.EstruturaSequencial.executor": "Run",
-    "Application.ExemploDeArrayList.executor": "Run",
-    "Application.Exercicios.executor": "Run",
-    "Application.HashSetJava.executor": "Run",
-    "Application.IteradorEComparador.executor": "Run",
-    "Application.LinkedListJava.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Matrizes.executor": "Run",
-    "Application.Metodos.executor": "Run",
-    "Application.MetodosToString.executor": "Run",
-    "Application.ModificadoresAcessos.executor": "Run",
-    "Application.OperadoresAritmeticosJava.executor": "Run",
-    "Application.OperadoresLogicos.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.ProjetoComList.executor": "Run",
-    "Application.TreeSetJava.executor": "Run",
-    "Application.UtilizandoMatrizes.executor": "Run",
-    "Application.UtilizandoVetores.executor": "Run",
-    "Application.Vetores.executor": "Run",
-    "Application.com.marcos1228.EntradaSaida.executor": "Run",
-    "Application.com.marcos1228.entradasaida.EntradaSaida.executor": "Run",
-    "Application.com.marcos1228.herança.ClassAbstratas.Main.executor": "Run",
-    "Application.com.marcos1228.herança.exemplodeheranca.Main.executor": "Run",
-    "Application.com.marcos1228.herança.interfaces.Main.executor": "Run",
-    "Application.com.marcos1228.polimorfismo.Main.executor": "Run",
-    "Maven.code-java [clean,install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/marcos.evangelista/Documents/open-gatay/code-java/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AulaPratica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Composicao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EntradaSaida.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaCondicionalComposta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaCondicionalSimples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaDeMultiplaEscolha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaDeRepeticaoAlinhada.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaRepeticaoDowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaRepeticaoFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaRepeticaoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturaSequencial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploDeArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IteradorEComparador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrizes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Metodos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetodosToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModificadoresAcessos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresAritmeticosJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetoComList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSetJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UtilizandoMatrizes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UtilizandoVetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.EntradaSaida.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.entradasaida.EntradaSaida.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.herança.ClassAbstratas.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.herança.exemplodeheranca.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.herança.interfaces.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.marcos1228.polimorfismo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.code-java [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/marcos.evangelista/Documents/open-gatay/code-java/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
